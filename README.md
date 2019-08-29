@@ -31,7 +31,7 @@
 
 由于该数据集中会出现一个用户ID多次浏览的情况，因此这里“用户ID”的count数和max值不代表用户数量，“商品ID“和“商品类目ID“类似
 
-[](https://upload-images.jianshu.io/upload_images/15578485-bded8cb034dc9c3d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/15578485-bded8cb034dc9c3d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 用户行为类型分为4种，其中浏览量pv最多，达到4475232次
 
